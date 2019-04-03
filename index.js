@@ -1,4 +1,4 @@
-/ Chuyển định dạng jsx sang vdom
+// Chuyển định dạng jsx sang vdom
         function h(nodeName, attributes) {
           var lastSimple,
             child,
